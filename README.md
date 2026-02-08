@@ -72,11 +72,11 @@ Oto yedek parça satış platformu
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammetmertdurgut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetmertdurgut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammetmertdurgut&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
 </div>
 
@@ -97,7 +97,7 @@ Git                 ████████████████░░░░
 
 ## 📈 Aktivite Grafiği
 
-[![Mert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADINIZ&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF)](https://github.com/KULLANICI_ADINIZ)
+[![Mert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammetmertdurgut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF)](https://github.com/muhammetmertdurgut)
 
 ---
 
@@ -125,8 +125,8 @@ Git                 ████████████████░░░░
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mert_Durgut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammet-mert-durgut-810107389)
   [![Portfolio](https://img.shields.io/badge/Portfolio-mertdurgut.net-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mertdurgut.net)
-  [![Email](https://img.shields.io/badge/Email-mert@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetmertdurgut@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-KULLANICI_ADINIZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammetmertdurgut)
+  [![Email](https://img.shields.io/badge/Email-muhammetmertdurgut@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetmertdurgut@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-muhammetmertdurgut-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammetmertdurgut)
 
 </div>
 
