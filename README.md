@@ -19,7 +19,7 @@ Bilgisayar Programcılığı öğrencisi ve tutkulu bir **Full Stack Web Develop
 - 🔭 Şu anda **E-Ticaret Platformları** ve **Yönetim Sistemleri** üzerinde çalışıyorum
 - 🌱 **Modern JavaScript Frameworks** ve **Cloud Technologies** öğreniyorum
 - 💼 Freelance projeler için açığım
-- 📫 Bana ulaşın: **mert@example.com**
+- 📫 Bana ulaşın: **muhammetmertdurgut@gmail.com**
 
 ---
 
@@ -125,8 +125,8 @@ Git                 ████████████████░░░░
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mert_Durgut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammet-mert-durgut-810107389)
   [![Portfolio](https://img.shields.io/badge/Portfolio-mertdurgut.net-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mertdurgut.net)
-  [![Email](https://img.shields.io/badge/Email-mert@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mert@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-KULLANICI_ADINIZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADINIZ)
+  [![Email](https://img.shields.io/badge/Email-mert@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetmertdurgut@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-KULLANICI_ADINIZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammetmertdurgut)
 
 </div>
 
@@ -136,8 +136,8 @@ Git                 ████████████████░░░░
   
   ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&color=6366F1&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=muhammetmertdurgut&color=6366F1&style=for-the-badge)
   
-  ⭐️ From [Mert Durgut](https://github.com/KULLANICI_ADINIZ)
+  ⭐️ From [Mert Durgut](https://github.com/muhammetmertdurgut)
 
 </div>
