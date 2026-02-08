@@ -103,7 +103,7 @@ Git                 ████████████████░░░░
 
 ## 🎓 Eğitim & Sertifikalar
 
-- 🎓 **Bilgisayar Programcılığı** - Üniversite Adı
+- 🎓 **Bilgisayar Programcılığı** - Kilis 7 Aralık Üniv.
 - 📜 **Web Development** - Online Kurslar
 - 🏅 **Full Stack Development** - Bootcamp
 
